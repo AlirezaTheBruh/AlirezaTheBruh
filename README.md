@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 👋 Hi, I’m @AlirezaTheBruh. @aezexa's Secret Account That You Discovered! 
+- 👀 I’m interested in Reading Manga, Making Music (Played The Piano Since 8), Speed-Typing, Playing Chess
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ??? (Soon to Be Specified)
+- 📫 How to reach me: Email (theaezexa@gmail.com)
+
 
 <!--
 **AlirezaTheBruh/AlirezaTheBruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
